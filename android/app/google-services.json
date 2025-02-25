@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318899879798",
+    "project_id": "qr-notification-b35ab",
+    "storage_bucket": "qr-notification-b35ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318899879798:android:7b109e5b05950affdf4457",
+        "android_client_info": {
+          "package_name": "com.qrnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAsm9jtnBeIljneS7gPDZ6un3cInQNcfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
